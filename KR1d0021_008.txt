@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集注
-#+DATE: 2015-09-23 09:37:37
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:08:15.456300
+#+PROPERTY: ID KR1d0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1d0021_WYG_008-1a>¶
 欽定四庫全書¶
 　周官集注卷八¶
@@ -866,4 +868,3 @@
 　¶
 　¶
 　周官集注卷八¶
-

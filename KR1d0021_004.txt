@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官集注
-#+DATE: 2015-09-23 09:37:37
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:08:15.340868
+#+PROPERTY: ID KR1d0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0021_WYG_004-1a>¶
 欽定四庫全書¶
 　周官集注卷四¶
@@ -1100,4 +1102,3 @@
 　後儒竄綴紛紜離散全經區區之心竊病其援周公¶
 　以從已也¶
 　周官集注卷四¶
-
